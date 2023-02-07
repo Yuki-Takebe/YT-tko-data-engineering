@@ -7,6 +7,12 @@
 
 # SNOWFLAKE ADVANTAGE: Python Stored Procedures
 
+# Run the script
+# Open Terminal, move to /steps/06_orders_update_sp folder
+# conda activate pysnowpark
+# python app.py
+# snow procedure create
+
 import time
 from snowflake.snowpark import Session
 #import snowflake.snowpark.types as T

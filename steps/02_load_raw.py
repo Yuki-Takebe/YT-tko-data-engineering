@@ -5,6 +5,11 @@
 # Last Updated: 1/9/2023
 #------------------------------------------------------------------------------
 
+# Run the script
+# Open Terminal, move to /steps folder
+# conda activate pysnowpark
+# python 02_load_raw.py
+
 import time
 from snowflake.snowpark import Session
 #import snowflake.snowpark.types as T

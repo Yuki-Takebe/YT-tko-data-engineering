@@ -5,6 +5,12 @@
 # Last Updated: 1/9/2023
 #------------------------------------------------------------------------------
 
+# Run the script
+# Open Terminal, move to /steps/07_daily_city_metrics_update_sp folder
+# conda activate pysnowpark
+# python app.py
+# snow procedure create
+
 import time
 from snowflake.snowpark import Session
 import snowflake.snowpark.types as T

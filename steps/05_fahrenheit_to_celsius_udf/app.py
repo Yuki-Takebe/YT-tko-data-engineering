@@ -9,6 +9,12 @@
 # SNOWFLAKE ADVANTAGE: Python UDFs (with third-party packages)
 # SNOWFLAKE ADVANTAGE: SnowCLI (PuPr)
 
+# Run the script
+# Open Terminal, move to /steps/05_fahrenheit_to_celsius_udf folder
+# conda activate pysnowpark
+# python app.py 35
+# snow function create
+
 import sys
 from scipy.constants import convert_temperature
 

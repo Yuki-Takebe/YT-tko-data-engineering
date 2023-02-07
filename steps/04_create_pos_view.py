@@ -9,6 +9,10 @@
 # SNOWFLAKE ADVANTAGE: Streams for incremental processing (CDC)
 # SNOWFLAKE ADVANTAGE: Streams on views
 
+# Run the script
+# Open Terminal, move to /steps folder
+# conda activate pysnowpark
+# python 04_create_pos_view.py
 
 from snowflake.snowpark import Session
 #import snowflake.snowpark.types as T
