@@ -15,6 +15,7 @@
 # python app.py 35
 # snow function create
 # snow function execute -f "fahrenheit_to_celsius_udf(35)"
+# add
 
 import sys
 from scipy.constants import convert_temperature
